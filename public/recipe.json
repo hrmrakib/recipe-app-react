@@ -1,0 +1,91 @@
+[
+  {
+    "recipe_id": "1",
+    "recipe_name": "Spaghetti Carbonara",
+    "recipe_img": "../src/assets/food1.jpg",
+    "recipe_desc": "Classic Italian pasta dish made with eggs, cheese, pancetta, and black pepper.",
+    "ingredients": [
+      "400 g spaghetti",
+      "200 g pancetta, diced",
+      "4 large eggs",
+      "100 g Parmesan cheese, grated",
+      "Salt and black pepper to taste"
+    ],
+    "preparing_time": "20",
+    "calories": "500"
+  },
+  {
+    "recipe_id": "2",
+    "recipe_name": "Chicken Tikka Masala",
+    "recipe_img": "../src/assets/food2.jpg",
+    "recipe_desc": "Creamy and flavorful Indian curry dish made with grilled chicken, tomatoes, and spices.",
+    "ingredients": [
+      "500 g chicken breast, diced",
+      "200 ml plain yogurt",
+      "400 g canned tomatoes",
+      "2 tbsp garam masala"
+    ],
+    "preparing_time": "40",
+    "calories": "600"
+  },
+  {
+    "recipe_id": "3",
+    "recipe_name": "Caprese Salad",
+    "recipe_img": "../src/assets/food3.jpg",
+    "recipe_desc": "Simple and refreshing Italian salad made with tomatoes, mozzarella, basil, and balsamic glaze.",
+    "ingredients": [
+      "4 large tomatoes, sliced",
+      "200 g fresh mozzarella cheese, sliced",
+      "1/4 cup fresh basil leaves",
+      "2 tbsp balsamic glaze",
+      "Salt and black pepper to taste"
+    ],
+    "preparing_time": "10",
+    "calories": "300"
+  },
+  {
+    "recipe_id": "4",
+    "recipe_name": "Vegetable Stir Fry",
+    "recipe_img": "../src/assets/food4.jpg",
+    "recipe_desc": "Healthy and colorful stir fry made with a variety of vegetables and a savory sauce.",
+    "ingredients": [
+      "1 red bell pepper, sliced",
+      "1 yellow bell pepper, sliced",
+      "1 green bell pepper, sliced",
+      "200 g broccoli florets",
+      "200 g snow peas",
+      "120 ml soy sauce"
+    ],
+    "preparing_time": "25",
+    "calories": "250"
+  },
+  {
+    "recipe_id": "5",
+    "recipe_name": "Mushroom Risotto",
+    "recipe_img": "../src/assets/food5.jpg",
+    "recipe_desc": "Creamy Italian rice dish made with Arborio rice, mushrooms, and Parmesan cheese.",
+    "ingredients": [
+      "300 g Arborio rice",
+      "200 g mushrooms, sliced",
+      "1 onion, finely chopped",
+      "1 L vegetable broth",
+      "50 g Parmesan cheese, grated"
+    ],
+    "preparing_time": "35",
+    "calories": "400"
+  },
+  {
+    "recipe_id": "6",
+    "recipe_name": "Grilled Salmon with Lemon Herb Sauce",
+    "recipe_img": "../src/assets/food6.jpg",
+    "recipe_desc": "Delicious and healthy grilled salmon served with a tangy lemon herb sauce.",
+    "ingredients": [
+      "4 salmon fillets",
+      "2 lemons, juiced and zested",
+      "2 tbsp olive oil",
+      "Salt and black pepper to taste"
+    ],
+    "preparing_time": "30",
+    "calories": "350"
+  }
+]
